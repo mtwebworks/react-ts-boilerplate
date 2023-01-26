@@ -1,0 +1,17 @@
+{
+  "name": "ts_react_boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for React Typescript projects based on Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Typescript",
+    "Webpack",
+    "Boilerplate"
+  ],
+  "author": "Mateusz Jakubczyk",
+  "license": "ISC"
+}
