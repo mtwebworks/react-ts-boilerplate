@@ -1,0 +1,33 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1c2021;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  color: #6d6d6d;
+}
+
+h1 {
+  color: #fff;
+  margin-bottom: .25em;
+}
+
+.logo {
+  animation: rotate 7s infinite linear;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  } to {
+    transform: rotate(360deg);
+  }
+}
