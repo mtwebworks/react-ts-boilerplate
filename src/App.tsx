@@ -1,5 +1,5 @@
-import "./App.css";
-import LOGO from "./logo.svg";
+import './App.css'
+import LOGO from './logo.svg'
 
 export const App = () => {
   return (
@@ -12,5 +12,5 @@ export const App = () => {
         </p>
       </div>
     </>
-  );
-};
+  )
+}
